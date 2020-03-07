@@ -1,4 +1,4 @@
-package basic;
+package practice;
 
 import org.junit.Test;
 
@@ -10,6 +10,6 @@ public class ArrayDemo {
 
     @Test
     public void demo() {
-        
+
     }
 }
