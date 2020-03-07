@@ -6,7 +6,7 @@ jrebel.jvm.args
 scs.sql
 src/main/java/com/ys/scs/test/*.java
 
-
+workspace.xml
 build
 .gradle
 .svn
